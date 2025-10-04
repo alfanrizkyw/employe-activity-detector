@@ -1,3 +1,5 @@
+https://alfanrizkyw.github.io/employe-activity-detector/
+
 🧠 Employee Activity Detector
 
 Employee Activity Detector is an intelligent web-based monitoring system that uses a webcam and AI-powered face detection (via TensorFlow.js BlazeFace) to determine if a user is present in front of the camera.
